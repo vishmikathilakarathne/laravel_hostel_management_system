@@ -1,0 +1,8 @@
+first_name,last_name,email,mobile_number,address,gender,hostel,room_no,bed_no,faculty,digree_programme
+Test ,User 17,17testuser@gmail.com,1234567890,"125, Sample RD, Sample.",male,CB,CB1,CB1-5,FAS,IIT
+Test ,User 11,11testuser@gmail.com,1234567890,"125, Sample RD, Sample.",male,CB,CB2,CB2-5,FAS,IIT
+Test ,User 12,12testuser@gmail.com,1234567890,"125, Sample RD, Sample.",male,CB,CB3,CB3-5,FAS,IIT
+Test ,User 13,13testuser@gmail.com,1234567890,"125, Sample RD, Sample.",female,CAT,CAT1,CAT1-5,FAS,IIT
+Test ,User 14,14testuser@gmail.com,1234567890,"125, Sample RD, Sample.",female,CAT,CAT2,CAT1-8,FAS,IIT
+Test ,User 15,15testuser@gmail.com,1234567890,"125, Sample RD, Sample.",female,CAT,CAT3,CAT2-5,FAS,IIT
+Test ,User 16,16testuser@gmail.com,1234567890,"125, Sample RD, Sample.",female,CAT,CAT4,CAT2-6,FAS,IIT

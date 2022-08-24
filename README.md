@@ -71,15 +71,8 @@ Password - password
 ```
 ## Screenshots
 
-![App Screenshot](https://imgur.com/a/2wbXUfM)
+![1](https://user-images.githubusercontent.com/109157656/186477333-a3041a75-0486-4392-872e-b60859984527.png)
 
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp9vfllktg4gyarwqq84.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ijs2pn14sroqt37n6nq9.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5w9yy33y0fspnnl68t0m.png)
-
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v5p71gck63r039mk6jix.png)
 
 ## Feedback
 

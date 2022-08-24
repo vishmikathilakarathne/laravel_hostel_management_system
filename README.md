@@ -27,7 +27,7 @@ Install HMS With Simple Steps
 
 ```bash
 git clone https://github.com/Nipun-Thiwanka/laravel_hostel_management_system.git
-cd techtool-laravel-admin
+cd hostel-management-system
 ```
 
 Install All Packages of laravel
@@ -63,9 +63,15 @@ Login With Admin
 Username - admin@admin.com
 Password - Admin@123#
 ```
+
+Login With Student
+```bash
+Username - 9testuser@gmail.com
+Password - password
+```
 ## Screenshots
 
-![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/53d53unbwjsvz2t0npan.png)
+![App Screenshot](https://imgur.com/a/2wbXUfM)
 
 ![App Screenshot](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/pp9vfllktg4gyarwqq84.png)
 

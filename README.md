@@ -40,11 +40,6 @@ Install NPM Dependencies
 npm install && npm run dev
 ```
 
-Create .env file
-```bash
-cp .env.example .env
-```
-
 Generate Application key
 
 ```bash

@@ -1,5 +1,5 @@
-
-# Two Weeks Laravel Project | Laravel 8 + Bootstrap 4 
+#Hostel Management System
+## Two Weeks Laravel Project | Laravel 8 + Bootstrap 4 
 
 
 

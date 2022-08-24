@@ -1,22 +1,18 @@
 
-# Tech-Admin | Laravel 8 + Bootstrap 4 
-
-Tech-Admin is Admin Panel With Preset of Roles, Permissions, ACL, User Management, Profile Management.
-
+# Two Weeks Laravel Project | Laravel 8 + Bootstrap 4 
 
 
 
 ## Features
 
 - Mobile Responsive Bootstrap 4 Design
-- User Management with Roles
+- Hostel Management with Roles
 - Role Management
 - Permissions Management
-- Access Control List (ACL)
 - Laravel 8 + Bootstrap 4
 
 
-## Tech Stack
+## Technologies $ Languages
 
 **Client:** HTML, CSS, JavaScript, jQuery, VueJs, Bootstrap 4
 
@@ -27,10 +23,10 @@ Tech-Admin is Admin Panel With Preset of Roles, Permissions, ACL, User Managemen
 
 ## Installation
 
-Install Tech-Admin With Simple Steps
+Install HMS With Simple Steps
 
 ```bash
-git clone https://github.com/TechTool-India/techtool-laravel-admin.git
+git clone https://github.com/Nipun-Thiwanka/laravel_hostel_management_system.git
 cd techtool-laravel-admin
 ```
 

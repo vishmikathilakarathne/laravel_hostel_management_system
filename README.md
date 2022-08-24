@@ -81,14 +81,3 @@ Password - password
 
 ![5](https://user-images.githubusercontent.com/109157656/186478289-3cf1f8ee-0c58-4af0-92da-2cf7fa0a3a79.png)
 
-
-
-## Feedback
-
-If you have any feedback, please reach out to us at techtoolindia@gmail.com
-
-
-## Support
-
-For support, email techtoolindia@gmail.com or join our facebook chanel https://www.facebook.com/techtoolindia.
-
